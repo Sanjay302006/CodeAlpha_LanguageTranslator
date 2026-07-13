@@ -8,6 +8,11 @@ A sleek, user-friendly web application built with Python and Streamlit that leve
 * **Shareable Dynamic Links:** Automatically generates a web-safe URL query string to share specific translations.
 * **Error Handling:** Robust network configurations to handle local SSL environment mismatches safely.
 
+## 📁 Project Structure
+* `Translator.py` - The main Python application file containing the UI logic and translation engine.
+* `OUTPUT/` - Contains project execution screenshots and application output verification.
+* `.gitignore` - Configured to hide environment files (`.venv/`) to keep the repository clean.
+
 ## 🛠️ Tech Stack
 * **Language:** Python
 * **UI Framework:** Streamlit
